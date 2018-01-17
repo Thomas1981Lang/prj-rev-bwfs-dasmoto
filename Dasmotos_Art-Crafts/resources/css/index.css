@@ -6,7 +6,7 @@ strong*/ {
     font-family: Helvetica;
 
 }
-/*  h3 and p were not defined so I figured I'll leave them in their standard font-family of Times New Roman, but than i would look like the template. */
+/*  h3 and p were not defined so I figured I'll leave them in their standard font-family of Times New Roman, but than it wouldn't look like the template. */
 
 h1 {
     background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
